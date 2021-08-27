@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey it's LittleCodingLoser 💻
+一個來自高雄中學不起眼的高二生，編程剛滿一年，是個被校內外大神電到外酥內嫩的小菜雞，正在努力追趕中，總有一天要擺脫Loser這個稱號
 
-<!--
-**LittleCodingLoser/LittleCodingLoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently working on
+- 架設自己的網站
+- 準備APCS檢定
+- 爆肝讀書
+- 等待獵人完結
 
-Here are some ideas to get you started:
+## 📚 Language and Frameworks I use
+- C++ - 競賽與檢定
+- Python - 網頁伺服器
+- HTML,CSS  - 網頁架構與美化
+- JavaScript - 還在努力
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Live Goals
+- 我不要當碼農!!
+- 吃飽睡飽
