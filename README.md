@@ -7,7 +7,7 @@
 - 爆肝讀書
 - 等待獵人完結
 
-## 📚 Language and Frameworks I use
+## 📚 Languages and Frameworks I use
 - C++ - 競賽與檢定
 - Python - 網頁伺服器
 - HTML, CSS  - 網頁架構與美化
