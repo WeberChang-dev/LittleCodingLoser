@@ -10,7 +10,7 @@
 ## 📚 Language and Frameworks I use
 - C++ - 競賽與檢定
 - Python - 網頁伺服器
-- HTML,CSS  - 網頁架構與美化
+- HTML, CSS  - 網頁架構與美化
 - JavaScript - 還在努力
 
 ## 🎯 Live Goals
