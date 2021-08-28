@@ -1,4 +1,4 @@
-# Hello there, I'm LittleCodingLoser <img width="50px" src="https://i.pinimg.com/originals/cd/83/0b/cd830b9a77ac95a80bb6ba2a8a8da6ce.gif" />
+# Hello there, I'm LittleCodingLoser <img width="100px" src="https://i.pinimg.com/originals/cd/83/0b/cd830b9a77ac95a80bb6ba2a8a8da6ce.gif" />
 一個來自高雄中學不起眼的高二生，編程剛滿一年，是個被校內外大神電到外酥內嫩的小菜雞，正在努力追趕中，總有一天要擺脫Loser這個稱號
 
 ## 🔭 Currently working on
