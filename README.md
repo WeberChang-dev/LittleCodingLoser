@@ -3,6 +3,7 @@
 
 ## 🔭 Currently working on
 - 架設自己的網站
+- 製作體溫機器人
 - 準備APCS檢定
 - 爆肝讀書
 
@@ -10,7 +11,7 @@
 - C++ - 競賽與檢定
 - Python - 網頁伺服器
 - HTML, CSS  - 網頁架構與美化
-- JavaScript - 網頁動畫與優化
+- JavaScript - 網頁動畫與Responsive
 
 ## 🎯 Life Goals
 - 我不要當碼農!!
