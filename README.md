@@ -14,13 +14,9 @@
 - JavaScript - 網頁動畫與Responsive
 - MySQL - 資料庫
 
-## 🎯 Life Goals
-- 我不要當碼農!!
-- 吃飽睡飽
-
 ## 📶 Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true)
 
-
-## 😃 Cool Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## 🎯 Life Goals
+- 我不要當碼農!!
+- 吃飽睡飽
