@@ -15,7 +15,11 @@
 - MySQL - 資料庫
 
 ## 📶 Statistics
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true)
+
+求好心人幫我按那個酷星星
+
 
 ## 🎯 Life Goals
 - 我不要當碼農!!
