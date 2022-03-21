@@ -16,7 +16,7 @@
 
 ## 📶 Statistics
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true&theme=discord_old_blurple)
 
 求好心人幫我按那個酷星星
 
