@@ -2,7 +2,6 @@
 一個來自高雄中學不起眼的高二生，編程經驗滿一年半，是個被校內外大神電到外酥內嫩的小菜雞，正在努力追趕中
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCodingLoser&theme=blue-green)
 
 ## 🔭 Currently working on
 - 製作體溫機器人
@@ -19,3 +18,6 @@
 ## 🎯 Life Goals
 - 我不要當碼農!!
 - 吃飽睡飽
+
+## Kewl Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
