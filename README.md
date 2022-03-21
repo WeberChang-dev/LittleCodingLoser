@@ -1,7 +1,7 @@
 # Hello there 💻
 一個來自高雄中學不起眼的高二生，編程經驗滿一年半，是個被校內外大神電到外酥內嫩的小菜雞，正在努力追趕中
 
-https://github-readme-stats.vercel.app/api?username=常洧丞&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true))
 
 ## 🔭 Currently working on
 - 製作體溫機器人
