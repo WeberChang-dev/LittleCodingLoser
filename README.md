@@ -19,5 +19,5 @@
 - 我不要當碼農!!
 - 吃飽睡飽
 
-## Kewl Jokes
+## Cool Jokes 😃
 ![Jokes Card](https://readme-jokes.vercel.app/api)
