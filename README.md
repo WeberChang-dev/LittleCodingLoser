@@ -4,7 +4,7 @@
 
 ## 🔭 Currently working on
 - 製作體溫機器人
-- 準備APCS檢定、TOI初選
+- 準備APCS檢定
 - 爆肝讀書
 
 ## 📚 Languages and Markup I use
