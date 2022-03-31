@@ -20,6 +20,7 @@
 
 求好心人幫我按那個酷星星
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LittleCodingLoser)](https://github.com/LittleCodingLoser/github-profile-trophy)
 
 ## 🎯 Life Goals
 - 我不要當碼農!!
