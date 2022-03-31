@@ -9,7 +9,7 @@
 
 ## 📚 Languages and Markup I use
 - C++ - 競賽與檢定
-- Python - 網頁伺服器
+- Python - 網頁後端、爬蟲
 - HTML, CSS  - 網頁架構與美化
 - JavaScript - 網頁動畫與Responsive
 - MySQL - 資料庫
@@ -19,8 +19,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true&theme=discord_old_blurple&hide_border=true)
 
 求好心人幫我按那個酷星星
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LittleCodingLoser&theme=discord)](https://github.com/LittleCodingLoser/github-profile-trophy)
 
 ## 🎯 Life Goals
 - 我不要當碼農!!
