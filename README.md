@@ -3,15 +3,15 @@
 
 
 ## 🔭 Currently working on
-- 製作體溫機器人
-- 準備APCS檢定
+- 趕工全國科展
+- 學學React
 - 爆肝讀書
 
 ## 📚 Languages and Markup I use
 - C++ - 競賽與檢定
 - Python - 網頁後端、爬蟲
 - HTML, CSS  - 網頁架構與美化
-- JavaScript - 網頁動畫與Responsive
+- JavaScript - 網頁動畫、React前端
 - MySQL - 資料庫
 
 ## 📶 Statistics
