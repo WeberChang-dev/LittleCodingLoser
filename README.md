@@ -1,25 +1,24 @@
 # Hello there 💻
-一個來自高雄中學不起眼的高二生，編程經驗滿一年半，是個被校內外大神電到外酥內嫩的小菜雞，正在努力追趕中
+A noob who has been coding for two years
 
 
 ## 🔭 Currently working on
-- 趕工全國科展
-- 學學React
-- 爆肝讀書
+- Studying
+- React frontend
+- occaitional Leetcode daily challeange 
 
 ## 📚 Languages and Markup I use
-- C++ - 競賽與檢定
-- Python - 網頁後端、爬蟲
-- HTML, CSS  - 網頁架構與美化
-- JavaScript - 網頁動畫、React前端
-- MySQL - 資料庫
+- C++ for competition
+- Python for web backend
+- HTML, CSS for web frontend
+- JavaScript & React also for Frontend
+- MySQL for database
 
 ## 📶 Statistics
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LittleCodingLoser&show_icons=true&theme=discord_old_blurple&hide_border=true)
 
-求好心人幫我按那個酷星星
+I really want some cool stars
 
 ## 🎯 Life Goals
-- 我不要當碼農!!
-- 吃飽睡飽
+- Sleep for more than seven hours every day
