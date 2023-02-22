@@ -3,12 +3,11 @@ A noob who has been coding for two years
 
 
 ## 🔭 Currently working on
-- Studying
-- React frontend
-- occaitional Leetcode daily challeange 
+- Studying, applying for college
+- Codeforces rating
 
 ## 📚 Languages and Markup I use
-- C++ for competition
+- C++ for competition programming
 - Python for web backend
 - HTML, CSS for web frontend
 - JavaScript & React also for Frontend
